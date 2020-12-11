@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: large;
+}
+
+button {
+  margin: 0 1rem;
+  border-radius: 10%;
+  font-size: larger;
+}
+
+.card {
+  margin: 2rem;
+
+  box-shadow: 20px 10px gray;
+}
+
+ul {
+  list-style: none;
+}
+
+ul a {
+  text-decoration: none;
+  color: red;
+  margin: 2rem;
+}
